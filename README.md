@@ -7,7 +7,7 @@
 
 ## Overview
 
-**PharmaGuard** is a production-grade pharmacogenomics web application that analyzes VCF files to provide personalized drug safety recommendations based on genetic variants. It identifies pharmacogenomic variants in key genes (CYP2D6, CYP2C19, CYP2C9, SLCO1B1, TPMT, DPYD), determines phenotypes using CPIC guidelines, and delivers drug-specific risk assessments with LLM-generated explanations.
+**PharmaGuard** is a production-grade pharmacogenomics web application that analyzes VCF files to provide personalized drug safety recommendations based on genetic variants. It identifies pharmacogenomic variants in key genes (CYP2D6, CYP2C19, CYP2C9, SLCO1B1, TPMT, DPYD), determines phenotypes using CPIC guidelines, and delivers drug-specific risk assessments with LLM-assisted explanations.
 
 ## Live Demo
 
